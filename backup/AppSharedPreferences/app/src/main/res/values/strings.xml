@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App SharedPreferences</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="editTextLogin">Login</string>
+    <string name="editTextSenha">Senha</string>
+    <string name="imgLogin">Usuario</string>
+    <string name="textViewHome">Home</string>
+    <string name="textViewBemVindo">Seja bem vindo!</string>
+    <string name="txtView_cadastro">Não é cadastrado?</string>
+</resources>

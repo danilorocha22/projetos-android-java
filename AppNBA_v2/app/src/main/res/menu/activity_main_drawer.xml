@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@color/white"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_descricao"
+            android:icon="@drawable/jogos"
+            android:title="@string/menu_descricao" />
+        <item
+            android:id="@+id/nav_casa"
+            android:icon="@drawable/time_casa"
+            android:title="@string/menu_casa" />
+        <item
+            android:id="@+id/nav_fora"
+            android:icon="@drawable/time_fora"
+            android:title="@string/menu_fora"/>
+        <item
+            android:id="@+id/nav_resultado"
+            android:icon="@drawable/placar"
+            android:title="@string/menu_resultado"/>
+        <item
+            android:id="@+id/nav_vencedor"
+            android:icon="@drawable/vencedor"
+            android:title="@string/menu_vencedor"/>
+
+    </group>
+</menu>

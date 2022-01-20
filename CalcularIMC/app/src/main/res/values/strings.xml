@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculo do IMC</string>
+    <string name="calcular">Calcular</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="nome">Nome</string>
+    <string name="aviso">Para calcular o IMC informe os dados abaixo</string>
+    <string name="resultado">Resultado</string>
+    <string name="refazer">Refazer</string>
+    <string name="logo_imc">Logo IMC</string>
+</resources>

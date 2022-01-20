@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="txt_view_contatos">Contatos</string>
+    <string name="input_nome">Nome</string>
+    <string name="input_telefone">Telefone</string>
+    <string name="input_email">E-mail</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar contato</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pesquisa de Satisfação</string>
+    <string name="cidade">Cidade</string>
+    <string name="nome">Nome</string>
+    <string name="text_view_frase">Qual sua satisfação com a administração do governo atual?</string>
+    <string name="btn_finalizar">Finalizar</string>
+    <string name="txt_view_resultado">Resultado</string>
+
+
+</resources>

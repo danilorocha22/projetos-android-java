@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDM1_atv_11-08-21</string>
+    <string name="enviar">Enviar</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="alertdiaglog">Dialog</string>
+    <string name="toast">Toast</string>
+    <string name="activity_resultado">Activity Resultado</string>
+    <string name="resultado">Resultado</string>
+</resources>

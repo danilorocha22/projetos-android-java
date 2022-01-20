@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUDJavaAndroid</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtCPF">CPF</string>
+    <string name="txtFone">Telefone</string>
+    <string name="btnSalvar">SALVAR</string>
+</resources>

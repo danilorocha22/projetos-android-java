@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App Alarm Manager</string>
+    <string name="txtView_titulo">Informe a Disciplina e o Tempo do Alarme</string>
+    <string name="btn_alarme">ALARME</string>
+    <string name="btn_agendar">Agendar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_responder">Responder</string>
+    <string name="labelA">a)</string>
+    <string name="labelB">b)</string>
+    <string name="labelC">c)</string>
+    <string name="labelD">d)</string>
+    <string name="txt_label_questao">Questão</string>
+
+    <string-array name="disciplinas">
+        <item>Disciplinas:</item>
+        <item>Português</item>
+        <item>Matemática</item>
+        <item>Ciências</item>
+    </string-array>
+</resources>

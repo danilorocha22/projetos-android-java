@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Simulador</string>
+    <string name="dan_bank">Dan Bank</string>
+    <string name="salario">Salário</string>
+    <string name="parcela">Parcela</string>
+    <string name="nome">Nome</string>
+    <string name="simulacao">Simulação</string>
+    <string name="emprestimo">Empréstimo</string>
+    <string name="prazo">Prazo</string>
+    <string name="valor_do_emprestimo">Valor do empréstimo</string>
+
+    <string-array name="prazo">
+        <item>Prazo</item>
+        <item>06x juros 1.5%/m</item>
+        <item>12x juros 1.5%/m</item>
+        <item>18x juros 2.0%/m</item>
+        <item>24x juros 2.0%/m</item>
+        <item>30x juros 2.5%/m"</item>
+        <item>36x juros 2.5%/m"</item>
+        <item>42x juros 3.0%/m"</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pdm1-Atv-TelaLogin</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="editTextLogin">Login</string>
+    <string name="editTextSenha">Senha</string>
+    <string name="imgLogin">Usuario</string>
+    <string name="textViewHome">Home</string>
+    <string name="textViewBemVindo">Seja bem vindo!</string>
+</resources>

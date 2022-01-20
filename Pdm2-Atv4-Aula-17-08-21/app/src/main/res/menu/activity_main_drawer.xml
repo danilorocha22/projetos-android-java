@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bolo"
+            android:icon="@drawable/birthday"
+            android:title="@string/menu_bolo" />
+        <item
+            android:id="@+id/nav_biscoito"
+            android:icon="@drawable/biscuit"
+            android:title="@string/menu_biscoito" />
+        <item
+            android:id="@+id/nav_maca"
+            android:icon="@drawable/apple"
+            android:title="@string/menu_maca" />
+    </group>
+</menu>

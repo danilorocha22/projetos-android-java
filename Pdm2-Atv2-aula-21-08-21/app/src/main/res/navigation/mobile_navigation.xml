@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.danilorocha.pdm2.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_filmes"
+        android:name="com.danilorocha.pdm2.ui.filme.FilmesFragment"
+        android:label="@string/menu_filmes"
+        tools:layout="@layout/fragment_filmes" />
+
+    <fragment
+        android:id="@+id/nav_livros"
+        android:name="com.danilorocha.pdm2.ui.livro.LivrosFragment"
+        android:label="@string/menu_livros"
+        tools:layout="@layout/fragment_livros" />
+
+    <fragment
+        android:id="@+id/nav_esportes"
+        android:name="com.danilorocha.pdm2.ui.esporte.EsportesFragment"
+        android:label="@string/menu_esportes"
+        tools:layout="@layout/fragment_esportes" />
+</navigation>

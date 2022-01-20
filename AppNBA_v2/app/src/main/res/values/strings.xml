@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App NBA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Jogos da NBA</string>
+    <string name="nav_header_subtitle">danilo.rochaa@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Reitoria IFTO</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_descricao">Detalhes dos Jogos</string>
+    <string name="menu_casa">Times da Casa</string>
+    <string name="menu_fora">Times Visitantes</string>
+    <string name="menu_resultado">Resultados</string>
+    <string name="menu_vencedor">Times Vencedores</string>
+    <string name="menu_map">Mapa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps_reitoria">MapsReitoriaActivity</string>
+    <string name="api_com_dados_da_nba">Api com dados da NBA</string>
+    <string name="bola">bola</string>
+    <string name="action_mapa">Localização IFTO</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

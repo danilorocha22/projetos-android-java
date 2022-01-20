@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cadastro de Alunos</string>
+    <string name="input_nome">Nome</string>
+    <string name="input_idade">Idade</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_aprovados">Aprovados</string>
+    <string name="btn_reprovados">Reprovados</string>
+    <string name="btn_media_idade">Média Idade</string>
+    <string name="title_cadastro_aluno">Cadastrar Aluno</string>
+    <string name="label_aluno">Aluno:</string>
+    <string name="label_media_idade">Média Idade:</string>
+    <string name="label_nota_primeiro_bimestre">Nota 1º B</string>
+    <string name="label_nota_segundo_bimestre">Nota 2º B</string>
+    <string name="label_nota_terceiro_bimestre">Nota 3º B</string>
+    <string name="label_nota_quarto_bimestre">Nota 4º B</string>
+    <string name="toast_aviso">Preencha todos os campos</string>
+    <string name="toast_sucesso">Cadastrado com sucesso</string>
+    <string name="title_alunos_aprovados">Alunos Aprovados</string>
+    <string name="title_alunos_reprovados">Alunos Reprovados</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.danilorocha.app.ui.dashboard.DashboardFragment"
+        android:label="@string/titulo_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_tarefa_agendada"
+        android:name="com.danilorocha.app.ui.tarefaAgendada.TarefaAgendadaFragment"
+        android:label="@string/titulo_tarefa_agendada"
+        tools:layout="@layout/fragment_tarefa_agendada" />
+
+    <fragment
+        android:id="@+id/navigation_tarefa_concluida"
+        android:name="com.danilorocha.app.ui.tarefaConcluida.TarefaConcluidaFragment"
+        android:label="@string/titulo_tarefa_concluida"
+        tools:layout="@layout/fragment_tarefa_concluida" />
+
+    <fragment
+        android:id="@+id/navigation_nova_tarefa"
+        android:name="com.danilorocha.app.ui.novaTarefa.NovaTarefaFragment"
+        android:label="@string/titulo_nova_tarefa"
+        tools:layout="@layout/fragment_nova_tarefa" />
+</navigation>

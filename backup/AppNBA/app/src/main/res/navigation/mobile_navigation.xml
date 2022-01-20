@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.danilorocha.nba.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+        
+    <fragment
+        android:id="@+id/nav_descricao"
+        android:name="com.danilorocha.nba.ui.descricao.DescricaoFragment"
+        android:label="@string/menu_descricao"
+        tools:layout="@layout/fragment_descricao" />
+
+    <fragment
+        android:id="@+id/nav_casa"
+        android:name="com.danilorocha.nba.ui.timecasa.TimeCasaFragment"
+        android:label="@string/menu_casa"
+        tools:layout="@layout/fragment_time_casa" />
+
+    <fragment
+        android:id="@+id/nav_fora"
+        android:name="com.danilorocha.nba.ui.timefora.TimeForaFragment"
+        android:label="@string/menu_fora"
+        tools:layout="@layout/fragment_time_visitante" />
+
+    <fragment
+        android:id="@+id/nav_resultado"
+        android:name="com.danilorocha.nba.ui.resultado.ResultadoFragment"
+        android:label="@string/menu_resultado"
+        tools:layout="@layout/fragment_resultado" />
+
+    <fragment
+        android:id="@+id/nav_vencedor"
+        android:name="com.danilorocha.nba.ui.vencedor.VencedorFragment"
+        android:label="@string/menu_vencedor"
+        tools:layout="@layout/fragment_vencedor" />
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.danilorocha.nba.ui.mapa.MapsFragmentReitoria"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_maps_reitoria" />
+
+ </navigation>

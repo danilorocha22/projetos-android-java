@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.CadastroActivity">
+
+    <ImageView
+        android:id="@+id/imgCadastro"
+        android:contentDescription="@string/imgLogin"
+        android:layout_width="148dp"
+        android:layout_height="131dp"
+        android:layout_marginTop="67dp"
+        android:background="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_baseline_account_circle_24"
+        tools:srcCompat="@drawable/ic_baseline_account_circle_24" />
+
+    <EditText
+        android:id="@+id/inputCadastroLogin"
+        android:layout_width="220dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints="username"
+        android:hint="@string/editTextLogin"
+        android:inputType="text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgCadastro" />
+
+    <EditText
+        android:id="@+id/inputCadastroSenha"
+        android:layout_width="220dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints="password"
+        android:hint="@string/editTextSenha"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputCadastroLogin" />
+
+    <Button
+        android:id="@+id/btnCadastrar"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="#3C99D7"
+        android:text="@string/btnCadastrar"
+        android:onClick="click2"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputCadastroSenha"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

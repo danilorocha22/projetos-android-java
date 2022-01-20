@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spinner App</string>
+    <string name="txt_view_seletor_de_planetas">Sistema Solar</string>
+    <string name="descricao_do_conteudo_imagens_de_planetas">Imagens de planetas</string>
+
+    <string-array name="meu_array">
+        <item>Selecione:</item>
+        <item>Sol</item>
+        <item>Mercúrio</item>
+        <item>Vênus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Saturno</item>
+        <item>Júpiter</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </string-array>
+
+</resources>

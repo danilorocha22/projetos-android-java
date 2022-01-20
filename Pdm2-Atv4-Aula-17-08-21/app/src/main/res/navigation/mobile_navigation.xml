@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_bolo">
+
+    <fragment
+        android:id="@+id/nav_bolo"
+        android:name="com.danilorocha.pdm2.ui.bolo.BoloFragment"
+        android:label="@string/menu_bolo"
+        tools:layout="@layout/fragment_bolo" />
+
+    <fragment
+        android:id="@+id/nav_biscoito"
+        android:name="com.danilorocha.pdm2.ui.biscoito.BiscoitoFragment"
+        android:label="@string/menu_biscoito"
+        tools:layout="@layout/fragment_biscoito" />
+
+    <fragment
+        android:id="@+id/nav_maca"
+        android:name="com.danilorocha.pdm2.ui.maca.MacaFragment"
+        android:label="@string/menu_maca"
+        tools:layout="@layout/fragment_maca" />
+</navigation>

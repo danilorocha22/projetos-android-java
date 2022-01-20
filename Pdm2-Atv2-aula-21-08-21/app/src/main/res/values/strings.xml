@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pdm2–Atv2-aula-21-08-21</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Escolha uma categoria</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_filmes">Filmes</string>
+    <string name="menu_livros">Livros</string>
+    <string name="menu_esportes">Esportes</string>
+    <string name="ok">Ok</string>
+    <string name="editTextNome">Informe seu nome</string>
+    <string name="pontuacao">Pontuação</string>
+    <string name="ver_dica">Começar</string>
+    <string name="informacao">Informacao</string>
+    <string name="imagem">imagem</string>
+    <string name="resposta">Resposta</string>
+    <string name="mensagem_ao_usuario">Mensagem ao usuário</string>
+</resources>

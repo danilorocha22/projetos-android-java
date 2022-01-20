@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EnvioDeMsg</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="radio_whatsapp">WhatsApp</string>
+    <string name="radio_gmail">Gmail</string>
+    <string name="radio_sms">SMS</string>
+</resources>

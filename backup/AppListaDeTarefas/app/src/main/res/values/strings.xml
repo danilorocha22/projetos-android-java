@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="titulo_dashboard">Dashboard</string>
+    <string name="titulo_tarefa_agendada">Agendadas</string>
+    <string name="titulo_tarefa_concluida">Concluídas</string>
+    <string name="titulo_lista_de_tarefas">Lista de Tarefas</string>
+    <string name="titulo_nova_tarefa">Nova Tarefa</string>
+    <string name="txt_nova_tarefa">Nova Tarefa</string>
+</resources>

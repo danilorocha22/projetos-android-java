@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppFormulario</string>
+    <string name="formulario">Formulário</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="estilo_musical">Estilos musicais favoritos:</string>
+    <string name="rock">Rock</string>
+    <string name="sertanejo">Sertanejo</string>
+    <string name="pagode">Pagode</string>
+    <string name="forro">Forro</string>
+    <string name="pop">Pop</string>
+    <string name="outro">Outro</string>
+    <string name="btn_cadastrar">CADASTRAR</string>
+    <string name="resultado">Usuários Cadastrados</string>
+    <string name="toast_aviso">Informe todos os dados</string>
+</resources>

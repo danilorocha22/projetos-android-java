@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="whatsapp" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/whatsapp</item>
+    </style>
+
+    <style name="gmail" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/gmail</item>
+    </style>
+
+    <style name="sms" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/sms</item>
+    </style>
+</resources>

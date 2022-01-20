@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App CRUD</string>
+    <string name="input_nome">Nome</string>
+    <string name="input_idade">Idade</string>
+    <string name="btn_cadastro">Cadastrar</string>
+    <string name="btn_consulta">Consultar</string>
+    <string name="btn_exclusao">Excluir</string>
+    <string name="btn_atualizacao">Atualizar</string>
+    <string name="txtView_realizar_cadastro">Cadastro</string>
+    <string name="txtView_realizar_consulta">Consulta</string>
+    <string name="txtView_realizar_exclusao">Exclusão</string>
+    <string name="txtView_realizar_atualizacao">Atualização</string>
+    <string name="btn_pesquisar_id">Pesquisar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_atualizar">Atualizar</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemplo Permissões</string>
+    <string name="segunda_activity">Segunda Activity</string>
+    <string name="clique">Clique me!</string>
+</resources>
